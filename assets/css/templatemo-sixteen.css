@@ -592,7 +592,8 @@ footer .inner-content {
 }
 
 footer .inner-content p {
-	text-transform: uppercase;
+	font-size: .8em;
+	
 }
 
 footer .inner-content p a {
