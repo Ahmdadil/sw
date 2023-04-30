@@ -596,10 +596,10 @@ header .navbar {
 	z-index: 9999;
 	width: 90%;
 	height: 90%;
+	margin-top: 100px;
 }
 
 .popup img {
-	display: block;
 	max-width: 100%;
 	max-height: 100%;
 }
